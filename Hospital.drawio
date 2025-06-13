@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Page-1" id="1m96GY_KWUsVulAtyEDP">
+    <mxGraphModel dx="1392" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Esx2OfxEfqirjJ1784M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Esx2OfxEfqirjJ1784M-1" target="6Esx2OfxEfqirjJ1784M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Esx2OfxEfqirjJ1784M-1" target="6Esx2OfxEfqirjJ1784M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-1" value="Doctor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Esx2OfxEfqirjJ1784M-2" target="6Esx2OfxEfqirjJ1784M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-2" value="Treat" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-3" value="patient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Esx2OfxEfqirjJ1784M-4" target="6Esx2OfxEfqirjJ1784M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-4" value="Specialize" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="25" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-5" value="Department" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="290" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-15" value="1:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="68" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-16" value="1:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="78" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-17" value="&lt;b&gt;M:M&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-18" value="1:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="138" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-19" value="1:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="258" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-20" value="&lt;b&gt;1:M&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="198" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-22" value="&lt;b&gt;The Hospital Entity Relationship Diagram&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-20" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Esx2OfxEfqirjJ1784M-23" value="&lt;u&gt;Logical Relational Model&lt;/u&gt;&lt;div&gt;Doctor(doc_id, name, Date_of_birth, email_address, #dept_id)&lt;/div&gt;&lt;div&gt;Patient(Pat_id, name, email_address, phone_number, address)&lt;/div&gt;&lt;div&gt;Department(dept_id, name, number_of_empolyee, HOD, Role)&lt;/div&gt;&lt;div&gt;Treat(treat_id, #doc_id, pat_id, patient_history, date, time, ward, admission, prescription)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-7.5" y="380" width="327.5" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
